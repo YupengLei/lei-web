@@ -44,6 +44,11 @@ export const workData = [
             '/project_yupenglei/p6.png',
             '/project_yupenglei/p7.png',
             '/project_yupenglei/p8.png',
+            '/project_yupenglei/p9.png',
+        ],
+        cellImg: [
+            '/project_yupenglei/p10.png',
+            '/project_yupenglei/p11.png',
         ],
         subTagList: ['web', 'portfolio'],
         backgroundColor: '#131414',
