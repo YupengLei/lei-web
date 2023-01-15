@@ -294,7 +294,6 @@ export class ArrowIcon extends React.Component {
 
 class InfoContent extends React.Component {
     render() {
-        console.log(this.props.workUrl)
         return (
             <div className="font-peque">
                 <br></br>
