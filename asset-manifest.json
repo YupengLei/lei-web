@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/lei-web/static/css/main.f89a98c5.css",
+    "main.js": "/lei-web/static/js/main.7a196567.js",
+    "static/media/AktivGrotesk-Thin.woff2": "/lei-web/static/media/AktivGrotesk-Thin.34244b2c14f894ee0763.woff2",
+    "index.html": "/lei-web/index.html",
+    "main.f89a98c5.css.map": "/lei-web/static/css/main.f89a98c5.css.map",
+    "main.7a196567.js.map": "/lei-web/static/js/main.7a196567.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f89a98c5.css",
+    "static/js/main.7a196567.js"
+  ]
+}
